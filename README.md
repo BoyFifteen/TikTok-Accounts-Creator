@@ -6,4 +6,4 @@ TikTok Mass Accounts Creator
 - Automatic E-mail Confirmation
 - SMS Registration
 - Device Registration
-- Contact : https://t.me/WHI3PER
+- Contact : https://t.me/BoyFifteen
