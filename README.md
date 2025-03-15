@@ -4,6 +4,6 @@ TikTok Mass Accounts Creator
 - Captcha Solver
 - Full Algorithms 
 - Automatic E-mail Confirmation 
-- SMS Registration 
+- SMS Registration  
 - Device Registration
 - Contact : https://t.me/BoyFifteen
