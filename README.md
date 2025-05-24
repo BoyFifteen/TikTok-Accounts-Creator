@@ -2,7 +2,7 @@
 TikTok Mass Accounts Creator
 - Support Proxies 
 - Captcha Solver
-- Full Algorithms 
+- Full Algorithms
 - Automatic E-mail Confirmation 
 - SMS Registration 
 - Device Registration
