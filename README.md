@@ -5,6 +5,6 @@ TikTok Mass Accounts Creator
 - Full Algorithms
 - Automatic E-mail Confirmation 
 - SMS Registration 
-- Device Registration
+- Device Registration 
 - Contact : https://t.me/BoyFifteen
  
